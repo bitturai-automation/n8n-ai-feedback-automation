@@ -135,3 +135,7 @@ LinkedIn: https://linkedin.com/in/bitturai
 ---
 
 ⭐ Star this repository if you found it useful.
+
+
+
+<img width="857" height="353" alt="image" src="https://github.com/user-attachments/assets/3fda5db7-9e83-4357-af10-154f0f644955" />
